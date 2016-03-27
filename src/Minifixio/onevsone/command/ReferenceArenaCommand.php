@@ -22,7 +22,7 @@ class ReferenceArenaCommand extends Command {
 
 	private $plugin;
 	private $arenaManager;
-	public $commandName = "refarena";
+	public $commandName = "setarena";
 
 	public function __construct(OneVsOne $plugin, ArenaManager $arenaManager){
 		parent::__construct($this->commandName, "Reference a new arena");
