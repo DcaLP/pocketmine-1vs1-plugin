@@ -7,7 +7,7 @@
 #Queue messages
 ###############
 queue_join: "&eDu &ehast &edie &41vs1 &cWarteschlange &cbetreten"
-queue_playersinqueue: "Waiting players :&e "
+queue_playersinqueue: "Wartende Spieler :&e "
 queue_popup: "&4» Du betrittst die 1vs1 Warteschlange"
 queue_alreadyinqueue: "&4Du bist schon in der Warteschlange !"
 
