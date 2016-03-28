@@ -271,7 +271,7 @@ class ArenaManager{
 		foreach ($this->signTiles as $signTile){
 			if($signTile->level != null){
 				
-				$signTile->setText(OneVsOne::SIGN_TITLE, "-Waiting " . $this->getNumberOfPlayersInQueue(), "-Arenas: " . $this->getNumberOfFreeArenas(), "-+===+-");
+				$signTile->setText(OneVsOne::SIGN_TITLE, "§eWartende " . $this->getNumberOfPlayersInQueue(), "-§cArenas: " . $this->getNumberOfFreeArenas(), "§e-+===+-");
 			}
 		}
 	}
