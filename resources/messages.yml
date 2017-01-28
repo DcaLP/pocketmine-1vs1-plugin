@@ -6,24 +6,24 @@
 ###############
 #Queue messages
 ###############
-queue_join: "You've joined the &41vs1 &fqueue"
-queue_playersinqueue: "Waiting players :&2 "
-queue_popup: "&4» You've joined the 1vs1 queue"
-queue_alreadyinqueue: "&4You are already in the queue !"
+queue_join: "&l&8[&r&c1&6vs&c1&l&8] &r&cDu hast die Warteschlange betreten"
+queue_playersinqueue: "&cWartende Spieler :&6 "
+queue_popup: "&l&8[&r&c1&6vs&c1&l&8]"
+queue_alreadyinqueue: "&l&8[&r&c1&6vs&c1&l&8] &cDu bist schon in der Warteschlange"
 
 ##############
 #Duel messages
 ##############
-duel_tip: "&6» You are strarting a duel !"
-duel_against: "&6&l>> Duel against :&4 "
-duel_start: "&f&l++++++++=++++++++\n&6> You are starting a duel !\n&6> You have &23min !\n&6> Good luck :) !\n&f&l++++++++=++++++++"
-duel_winner: "&6&l> You won the duel against :&4 "
-duel_loser: "&6&l> You've lost the duel against :&4 "
-duel_broadcast: "&6&l won a duel against "
-duel_timeover: "&f&l++++++++=++++++++\n&6> Playing time &6over&6, no winners !\n&6> Be faster next time !\n&f&l++++++++=++++++++"
+duel_tip: "&6» &cDas Duell startet!"
+duel_against: "&6&l>> &r&cDu kämpfst gegen &l:&4 "
+duel_start: "&6&l++++++++=++++++++\n&6> &cDas Duell startet !\n&c> Du hast &63min zeit !\n&6> &cViel Glück :) !\n&6&l++++++++=++++++++"
+duel_winner: "&6&l> &r&cDu hast gewonnen! "
+duel_loser: "&6&l> &r&cDu hast verloren! "
+duel_broadcast: "&6&l &r&chat gewonnen
+duel_timeover: "&6&l++++++++=++++++++\n&6> &r&cDie Zeit ist vorbei\n&6&l++++++++=++++++++"
 
 ###############
 #Arena messages
 ###############
-arena_alreadyinarena: "&4You are already in a arena !"
+arena_alreadyinarena: "&l&8[&r&c1&6vs&c1&l&8] &cDu bist schon in der Arena"
 ...
